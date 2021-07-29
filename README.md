@@ -24,6 +24,7 @@
 <img align="left" alt="SASS" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/sass.png" />
 <img align="left" alt="WordPress" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/wordpress.png" />
 <img align="left" alt="GULP" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/gulp.jpg" />
+<img align="left" alt="Bootstrap" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/bootstrap.png" />
 
 
 <br />
