@@ -30,7 +30,8 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?PetrKulko=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrKulko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <details>
