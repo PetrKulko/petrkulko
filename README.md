@@ -11,6 +11,7 @@
 
 [<img align="left" alt="PetrKulko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PetrKulko | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="PetrKulko | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -35,4 +36,5 @@
 
 [linkedin]: https://www.linkedin.com/in/kulkop
 [telegram]: https://t.me/KulkoP
+[gmail]: petrokulko@gmail.com
 
