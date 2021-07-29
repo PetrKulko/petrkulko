@@ -39,6 +39,6 @@
 
 [linkedin]: https://www.linkedin.com/in/kulkop
 [telegram]: https://t.me/KulkoP
-[gmail]: petrokulko@gmail.com
+[gmail]: mailto:petrokulko@gmail.com
 [skype]: https://join.skype.com/invite/BcdBIcgqMVpr
 
