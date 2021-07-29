@@ -11,7 +11,7 @@
 
 [<img align="left" alt="PetrKulko | LinkedIn" width="22px" src="https://github.com/PetrKulko/petrkulko/blob/main/linkedin.png" />][linkedin]
 [<img align="left" alt="PetrKulko | Telegram" width="22px" src="https://github.com/PetrKulko/petrkulko/blob/main/telegram.png" />][telegram]
-[<img align="left" alt="PetrKulko | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="PetrKulko | Gmail" width="22px" src="https://github.com/PetrKulko/petrkulko/blob/main/mail.png" />][gmail]
 [<img align="left" alt="PetrKulko | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/skype.svg" />][skype]
 
 <br />
