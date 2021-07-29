@@ -30,12 +30,10 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrKulko)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <details>
   <summary>:zap: Statistics:</summary>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrKulko)](https://github.com/anuraghazra/github-readme-stats)
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PetrKulko&show_icons=true" />
 </details>
 
