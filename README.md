@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Petr
 
+![](https://komarev.com/ghpvc/?username=PetrKulko)
+
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
 - 🎉 I love to lisn music and play computer games
