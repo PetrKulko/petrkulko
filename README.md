@@ -30,6 +30,9 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?PetrKulko=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrKulko&langs_count=8&layout=compact" />
