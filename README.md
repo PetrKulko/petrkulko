@@ -39,6 +39,6 @@
 
 [linkedin]: https://www.linkedin.com/in/kulkop
 [telegram]: https://t.me/KulkoP
-[gmail]: <a href="mailto:vlad@webref.ru">Текст ссылки</a>
+[gmail]: https://petrokulko@gmail.com
 [skype]: https://join.skype.com/invite/BcdBIcgqMVpr
 
