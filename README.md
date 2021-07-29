@@ -18,11 +18,10 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/075-browser.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/074-css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/076-js.png" />
-<img align="left" alt="SASS" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/093-sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/html-5.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/css-3.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/js.png" />
+<img align="left" alt="SASS" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/sass.png" />
 
 
 <br />
