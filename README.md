@@ -22,6 +22,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/css-3.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/js.png" />
 <img align="left" alt="SASS" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/sass.png" />
+<img align="left" alt="WordPress" width="26px" src="https://github.com/PetrKulko/petrkulko/blob/main/wordpress.png" />
 
 
 <br />
