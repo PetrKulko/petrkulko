@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Petr
+### Hi there 👋, I'm Peter
 
 ![](https://komarev.com/ghpvc/?username=PetrKulko)
 
