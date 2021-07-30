@@ -4,7 +4,7 @@
 
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
-- 🎉 I love to lisn music and play computer games
+- 🎉 I like listening to music and play computer games
 - 🥅 I am constantly learning new things
 - ⚡ I love listening to educational audio podcasts
 
